@@ -35,8 +35,6 @@ export default {
       setTimeout(() => {
         loading.value = false;
       }, 2000);
-
-      //Christian
     };
 
     return {
